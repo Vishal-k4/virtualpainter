@@ -1,4 +1,4 @@
-pip
+-m pip install --upgrade pip
 cv2 
 time 
 pandas 
