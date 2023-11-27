@@ -1,1 +1,5 @@
-cv2 time pandas numpy mediapipe
+cv2 
+time 
+pandas 
+numpy 
+mediapipe
